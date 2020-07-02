@@ -9,6 +9,7 @@
 * ~~Распределенные системы. Паттерны проектирования~~
 * ~~Масштабирование приложений. Выращивание сложных систем~~
 * GraphQL
+* Working Effectively with Legacy Code
 
 # articles
 * https://blog.redelastic.com/corporate-arts-crafts-modelling-reactive-systems-with-event-storming-73c6236f5dd7
