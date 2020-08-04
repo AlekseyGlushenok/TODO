@@ -5,7 +5,7 @@
 * Site Reliability Engineering
 * Systems Performance Enterprise and the Cloud
 * ~~Data Intensive Application~~
-* Создание микросервисов
+* ~~Создание микросервисов~~
 * ~~Распределенные системы. Паттерны проектирования~~
 * ~~Масштабирование приложений. Выращивание сложных систем~~
 * GraphQL
