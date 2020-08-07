@@ -9,6 +9,7 @@
 * ~~Распределенные системы. Паттерны проектирования~~
 * ~~Масштабирование приложений. Выращивание сложных систем~~
 * GraphQL
+* Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation (Addison-Wesley Signature Series (Fowler))
 * Working Effectively with Legacy Code
 
 # articles
