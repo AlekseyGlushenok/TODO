@@ -11,6 +11,7 @@
 * GraphQL
 * Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation (Addison-Wesley Signature Series (Fowler))
 * Working Effectively with Legacy Code
+* Information Dashboard Design: Displaying Data for At-a-Glance Monitoring
 
 # articles
 * https://blog.redelastic.com/corporate-arts-crafts-modelling-reactive-systems-with-event-storming-73c6236f5dd7
