@@ -15,6 +15,7 @@
 
 # articles
 * https://blog.redelastic.com/corporate-arts-crafts-modelling-reactive-systems-with-event-storming-73c6236f5dd7
+* https://www.infoq.com/articles/ddd-contextmapping/
 
 # interesting
 * https://ruhighload.com/
